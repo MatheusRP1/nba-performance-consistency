@@ -1,0 +1,2 @@
+# nba-performance-consistency
+Este projeto explora o desempenho individual de jogadores da NBA utilizando um banco de dados NoSQL para analisar e comparar estatísticas de jogos disputados dentro e fora de casa. Nosso objetivo principal é identificar jogadores com padrões de desempenho mais constantes e aqueles que demonstram maior inconstância dependendo do ambiente de jogo, fornecendo insights valiosos sobre a adaptabilidade e regularidade dos atletas da liga.
