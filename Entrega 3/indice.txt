@@ -1,0 +1,7 @@
+# ✅ Objetivo Final
+Implementar uma API com FastAPI que permita:
+
+- Consultar jogadores que fizeram mais de X pontos;
+- Usar um índice criado com create_index() para otimizar a consulta;
+- Retornar dados limpos (com _id convertido);
+- Manter o sistema atual intacto (coleções ofensiva, defensiva etc);
